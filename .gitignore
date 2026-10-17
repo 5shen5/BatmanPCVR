@@ -1,0 +1,27 @@
+# Never commit game files, saves, builds or downloads.
+*.apk
+*.obb
+*.zip
+*.exe
+*.dll
+*.pdb
+*.so
+*.jar
+game-content/
+guest-data/
+sysroot/
+data/
+share/
+downloads/
+temp/
+play-logs/
+bridge-build*/
+bridge-source/
+refract-1.0.0/
+zig-fast/
+third_party/
+**/__pycache__/
+*.part
+*.bak
+PCVR-Graphics-Settings.ini
+ui-theme.txt
